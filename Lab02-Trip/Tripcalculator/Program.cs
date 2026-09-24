@@ -24,3 +24,26 @@ double fuelCost = gallonsNeeded * pricePerGallon;
 Console.WriteLine();
 Console.WriteLine("Gallons needed: " + gallonsNeeded.ToString("F2"));
 Console.WriteLine("Fuel cost: " + fuelCost.ToString("C"));
+// Part 2: Calculates total slices, slices per person, and pizza cost
+Console.WriteLine();
+Console.WriteLine("=== Part 2: Pizza Party ===");
+
+const double SLICES_PER_PIZZA = 8;
+
+Console.Write("How many people are going: ");
+double numberOfPeople = double.Parse(Console.ReadLine());
+
+Console.Write("How many pizzas: ");
+double numberOfPizzas = double.Parse(Console.ReadLine());
+
+Console.Write("Price per pizza: ");
+double pricePerPizza = double.Parse(Console.ReadLine());
+
+double totalSlices = numberOfPizzas * SLICES_PER_PIZZA;
+double slicesPerPerson = totalSlices / numberOfPeople;
+double pizzaCost = numberOfPizzas * pricePerPizza;
+
+Console.WriteLine();
+Console.WriteLine("Total slices: " + totalSlices);
+Console.WriteLine("Slices per person: " + slicesPerPerson.ToString("F1"));
+Console.WriteLine("Pizza cost: " + pizzaCost.ToString("C"));
