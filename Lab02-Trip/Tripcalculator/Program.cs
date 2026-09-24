@@ -66,4 +66,17 @@ double takeHomePay = grossPay - taxWithheld;
 Console.WriteLine();
 Console.WriteLine("Gross pay: " + grossPay.ToString("C"));
 Console.WriteLine("Tax withheld: " + taxWithheld.ToString("C"));
-Console.WriteLine("Take home pay: " + takeHomePay.ToString("C"));1
+Console.WriteLine("Take home pay: " + takeHomePay.ToString("C"));
+// Part 4: Calculates overall trip costs and work hours needed per person
+Console.WriteLine();
+Console.WriteLine("=== Part 4: The Whole Trip ===");
+
+double tripTotal = fuelCost + pizzaCost;
+double costPerPerson = tripTotal / numberOfPeople;
+double takeHomePayPerHour = takeHomePay / hoursWorked;
+double hoursToWork = costPerPerson / takeHomePayPerHour;
+
+Console.WriteLine("Trip total: " + tripTotal.ToString("C"));
+Console.WriteLine("Cost per person: " + costPerPerson.ToString("C"));
+Console.WriteLine("Take home pay per hour: " + takeHomePayPerHour.ToString("C"));
+Console.WriteLine("Hours you must work to cover your share: " + hoursToWork.ToString("F2"));
