@@ -1,0 +1,15 @@
+C:\Users\tanne\OneDrive\Documents\CSCI1250-Programming\Lab02-Trip\Tripcalculator\bin\Debug\net10.0\Tripcalculator.exe
+C:\Users\tanne\OneDrive\Documents\CSCI1250-Programming\Lab02-Trip\Tripcalculator\bin\Debug\net10.0\Tripcalculator.deps.json
+C:\Users\tanne\OneDrive\Documents\CSCI1250-Programming\Lab02-Trip\Tripcalculator\bin\Debug\net10.0\Tripcalculator.runtimeconfig.json
+C:\Users\tanne\OneDrive\Documents\CSCI1250-Programming\Lab02-Trip\Tripcalculator\bin\Debug\net10.0\Tripcalculator.dll
+C:\Users\tanne\OneDrive\Documents\CSCI1250-Programming\Lab02-Trip\Tripcalculator\bin\Debug\net10.0\Tripcalculator.pdb
+C:\Users\tanne\OneDrive\Documents\CSCI1250-Programming\Lab02-Trip\Tripcalculator\obj\Debug\net10.0\Tripcalculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tanne\OneDrive\Documents\CSCI1250-Programming\Lab02-Trip\Tripcalculator\obj\Debug\net10.0\Tripcalculator.AssemblyInfoInputs.cache
+C:\Users\tanne\OneDrive\Documents\CSCI1250-Programming\Lab02-Trip\Tripcalculator\obj\Debug\net10.0\Tripcalculator.AssemblyInfo.cs
+C:\Users\tanne\OneDrive\Documents\CSCI1250-Programming\Lab02-Trip\Tripcalculator\obj\Debug\net10.0\Tripcalculator.csproj.CoreCompileInputs.cache
+C:\Users\tanne\OneDrive\Documents\CSCI1250-Programming\Lab02-Trip\Tripcalculator\obj\Debug\net10.0\Tripcalculator.sourcelink.json
+C:\Users\tanne\OneDrive\Documents\CSCI1250-Programming\Lab02-Trip\Tripcalculator\obj\Debug\net10.0\Tripcalculator.dll
+C:\Users\tanne\OneDrive\Documents\CSCI1250-Programming\Lab02-Trip\Tripcalculator\obj\Debug\net10.0\refint\Tripcalculator.dll
+C:\Users\tanne\OneDrive\Documents\CSCI1250-Programming\Lab02-Trip\Tripcalculator\obj\Debug\net10.0\Tripcalculator.pdb
+C:\Users\tanne\OneDrive\Documents\CSCI1250-Programming\Lab02-Trip\Tripcalculator\obj\Debug\net10.0\Tripcalculator.genruntimeconfig.cache
+C:\Users\tanne\OneDrive\Documents\CSCI1250-Programming\Lab02-Trip\Tripcalculator\obj\Debug\net10.0\ref\Tripcalculator.dll
