@@ -47,3 +47,23 @@ Console.WriteLine();
 Console.WriteLine("Total slices: " + totalSlices);
 Console.WriteLine("Slices per person: " + slicesPerPerson.ToString("F1"));
 Console.WriteLine("Pizza cost: " + pizzaCost.ToString("C"));
+// Part 3: Calculates gross earnings, tax withheld, and net take-home pay
+Console.WriteLine();
+Console.WriteLine("=== Part 3: Paycheck ===");
+
+const double TAX_RATE = 0.18;
+
+Console.Write("Hours worked this week: ");
+double hoursWorked = double.Parse(Console.ReadLine());
+
+Console.Write("Hourly rate: ");
+double hourlyRate = double.Parse(Console.ReadLine());
+
+double grossPay = hoursWorked * hourlyRate;
+double taxWithheld = grossPay * TAX_RATE;
+double takeHomePay = grossPay - taxWithheld;
+
+Console.WriteLine();
+Console.WriteLine("Gross pay: " + grossPay.ToString("C"));
+Console.WriteLine("Tax withheld: " + taxWithheld.ToString("C"));
+Console.WriteLine("Take home pay: " + takeHomePay.ToString("C"));1
