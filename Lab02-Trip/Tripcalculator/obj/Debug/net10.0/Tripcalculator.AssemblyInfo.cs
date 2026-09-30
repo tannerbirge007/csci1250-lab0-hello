@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Tripcalculator")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f062787d33132b30cd475321ddaa626480ecf8eb")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ccffee965d26be9312506d124481c3bc8c5c08e8")]
 [assembly: System.Reflection.AssemblyProductAttribute("Tripcalculator")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Tripcalculator")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
