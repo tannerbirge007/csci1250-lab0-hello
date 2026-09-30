@@ -29,11 +29,11 @@ Console.WriteLine("Initials: " + initials);
 Console.WriteLine("Letters in last name: " + lastnamelength);
 
 //Part 2: The numbers
-int studentid = rng.Next(100000,1000000); 
+int studentId = rng.Next(100000,1000000); 
 int locker = rng.Next(1,501);
 
 Console.WriteLine();
-Console.WriteLine("student ID:"+ studentid);
+Console.WriteLine("student ID:"+ studentId);
 Console.WriteLine("Locker:" + locker);
 
 // Part 3: The walk
@@ -68,7 +68,6 @@ Console.WriteLine($"Walk time: {minutes} minutes {seconds} seconds");
 // Part 4:
 int checkDigit = studentId % 9;
 string fullId = $"{studentId}-{checkDigit}";
-
 string walkDisplay = $"{minutes} min {seconds} sec";
 
 Console.WriteLine();
