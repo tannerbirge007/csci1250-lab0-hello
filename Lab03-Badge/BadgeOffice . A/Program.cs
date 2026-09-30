@@ -27,3 +27,11 @@ Console.WriteLine("Name on badge: " + badgename);
 Console.WriteLine("Username: " + username);
 Console.WriteLine("Initials: " + initials);
 Console.WriteLine("Letters in last name: " + lastnamelength);
+
+//Part 2: The numbers
+int studentid = rng.Next(100000,1000000); 
+int locker = rng.Next(1,501);
+
+Console.WriteLine();
+Console.WriteLine("student ID:"+ studentid);
+Console.WriteLine("Locker:" + locker);
